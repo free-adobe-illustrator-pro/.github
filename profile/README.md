@@ -4,6 +4,8 @@ When you get Adobe Illustrator CC for Windows, you're equipping yourself with th
 Illustrator’s intuitive drawing tools, like the Pen Tool and Curvature Tool, allow you to craft detailed paths with precision. Shape-building tools, alignment controls, snapping guides, and live previewing features streamline the design process for both beginners and experienced designers alike.
 
 
+[![53425623456](https://github.com/user-attachments/assets/e57626ba-32b4-4b83-a106-848fa16b8f80)](https://y.gy/adobe-illustrator)
+
 ## Seamless workflow with Creative Cloud
 As part of the Adobe Creative Cloud suite, Illustrator CC integrates directly with apps like Photoshop, After Effects, and InDesign. You can easily drag and drop Illustrator files into other programs, preserve vector layers, and even animate designs in After Effects without losing quality. This integration saves time and simplifies project management across teams.
 
